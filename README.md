@@ -1,2 +1,2 @@
-# card-list
+# price-card
 Created with CodeSandbox
